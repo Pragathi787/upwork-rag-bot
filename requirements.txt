@@ -7,3 +7,4 @@ torch
 torchvision
 langchain-community==0.0.38
 chromadb==0.4.24
+protobuf==3.20.3
