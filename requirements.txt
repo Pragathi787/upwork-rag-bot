@@ -1,10 +1,9 @@
 streamlit
-langchain
-langchain-community
-chromadb
-sentence-transformers
-pypdf
-python-dotenv
 openai
+python-dotenv
+pypdf
+sentence-transformers
 torch
-transformers
+torchvision
+langchain-community==0.0.38
+chromadb==0.4.24
